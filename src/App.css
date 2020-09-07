@@ -2,24 +2,12 @@
   width: 800px;
   margin: 0 auto;
 }
-.send_message_form {
-  padding: 30px;
-  margin-top: 120px;
-  width: 800px;
-  height: 630px;
-  left: calc(50% - 800px/2);
-  
-
-  background: #FFFFFF;
-  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
-  border-radius: 5px;
-
-}
 
 form {
   margin: 0 auto;
   width: 740px;
 }
+
 input {
   border: 1px solid #dddddd;
 }
@@ -37,18 +25,13 @@ textarea:focus {
 }
 
 
-.form_input {
-  width: 50%;
-  display: inline-block;
-}
+
 form h1 {
  
   font-size: 30px;
   font-weight: 400;
 }
-.form_section {
-  width: 740px;
-}
+
 
 label {
   font-weight: 400;
@@ -58,24 +41,6 @@ label {
 }
 
 
-.form_theme input,
-.form_section input {
-  width: 100%;
-  padding: 0 7px;
-  box-sizing: border-box;
-  font-size: 18px;
-  line-height: 30px;
-}
-
-.form_input_left_item {
-  border-radius: 5px 0 0 5px;
-}
-
-.form_input_right_item {
-  border-radius: 0 5px 5px 0;
-}
-
-.form_theme input,
 form textarea  {
   border-radius: 5px;
 }
@@ -125,11 +90,4 @@ form button:active {
 form button:disabled { 
   border: 2px solid #45A5FF;
   border-radius: 7px;background: linear-gradient(0deg, #C4C4C4, #C4C4C4), linear-gradient(180deg, #45A6FF 0%, #0055FB 100%);
-}
-.messages_report {
-  padding: 30px;
-}
-.messages_report span {
-  font-size: 24px;
-  line-height: 30px;
 }

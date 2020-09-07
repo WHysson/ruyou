@@ -1,0 +1,25 @@
+.form_section {
+    width: 740px;
+  }
+
+  .form_section input {
+    width: 100%;
+    padding: 0 7px;
+    box-sizing: border-box;
+    font-size: 18px;
+    line-height: 30px;
+  }
+  
+.form_input {
+    width: 50%;
+    display: inline-block;
+  }
+
+  
+.form_input_left_item {
+    border-radius: 5px 0 0 5px;
+  }
+  
+  .form_input_right_item {
+    border-radius: 0 5px 5px 0;
+  }

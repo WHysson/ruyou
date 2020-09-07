@@ -1,0 +1,15 @@
+.send_message_form {
+    padding: 30px;
+    margin-top: 120px;
+    width: 800px;
+    height: 630px;
+    left: calc(50% - 800px/2);
+    
+  
+    background: #FFFFFF;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+  
+  }
+
+ 
